@@ -1,7 +1,5 @@
 const mongoose = require("mongoose");
 
-const MONGO_URL =
-  "mongodb+srv://odinasayid:KnOA9j7GGOOksBet@cluster0.st8djrp.mongodb.net/nasa?retryWrites=true&w=majority";
 
 //mongoose event listeners
 
